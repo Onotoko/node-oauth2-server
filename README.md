@@ -1,5 +1,5 @@
 # oauth2-server
-#oanhnguyen
+
 [![npm Version][npm-image]][npm-url]
 [![npm Downloads][downloads-image]][downloads-url]
 [![Test Status][travis-image]][travis-url]
